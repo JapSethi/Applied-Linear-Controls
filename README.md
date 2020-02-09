@@ -8,3 +8,6 @@
 - Design appropriate anti-alias and anti-imaging filters for a feedback control implementation
 - Estimate dynamic system models from experimental data for use in design and analysis
 - Design state-feedback and output-feedback controllers for discrete time implementation
+
+#### Assignment Overview
+- [Assignment1_Sethi.mlx]() - awerfdef
