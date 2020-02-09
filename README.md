@@ -10,4 +10,4 @@
 - Design state-feedback and output-feedback controllers for discrete time implementation
 
 #### Assignment Overview
-- [Assignment1_Sethi.mlx]() - awerfdef
+- [Assignment1_Sethi.mlx]() - Computation of Gain & Phase margins, pure delay frequency response, and selection of ADC chip.
