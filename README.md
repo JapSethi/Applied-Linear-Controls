@@ -9,5 +9,5 @@
 - Estimate dynamic system models from experimental data for use in design and analysis
 - Design state-feedback and output-feedback controllers for discrete time implementation
 
-#### Assignment Overview
+#### Assignments Overview:
 - [Assignment1_Sethi.mlx]() - Computation of Gain & Phase margins, pure delay frequency response, and selection of ADC chip.
