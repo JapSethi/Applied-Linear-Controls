@@ -11,4 +11,4 @@
 
 #### Assignments Overview:
 - [**Assignment1_Sethi.mlx**](Assignment1_Sethi.mlx) - Computation of Gain & Phase margins, pure delay frequency response, and selection of ADC chip.
-- [**Assignment2_Sethi.mlx**](Assignment2_Sethi.mlx) - Building Anti-Alias Filter based on requirements, Designing a 2^ND order Sallen-key analog low-pass filter based on requirements.
+- [**Assignment2_Sethi.mlx**](Assignment2_Sethi.mlx) - Building Anti-Alias Filter based on requirements and designing a 2<sup>nd</sup> order Sallen-key analog low-pass filter based on requirements.
